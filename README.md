@@ -1,2 +1,3 @@
-# Login-App
-Login Application to deploy on AWS Elastic Bean Stalk
+# Cloud-Computing-Servlet
+
+Application allows to login with credentials(Username & Password) and validate the same in the backend.
